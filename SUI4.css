@@ -1,7 +1,6 @@
 @import url("https://raw.githubusercontent.com/diahyc/S-UI/main/SP-UI-CORE-2.css");
 /*SELECTEDplus UI 4.4.2 CORE 1.1.1*//* !!!!!!!!!!!! With Core 1.2+ + !!!!!!!!!!!!*/
 /************** FONT & icon & ROOT*******************************************/
-@import url("./selectedplus-jfcss-core1-2.css");
 @import url("https://cdn.jsdelivr.net/gh/prayag17/Jellyfin-Icons/Font%20Awesome/solid.css");
 @import url(https://filedn.com/lHcY93qb5dHj2rg0rO7rRT4/www/fonter/MElleHK/stylesheet.css);
 html,body,h1,h2,h3,h4 {font-family: "MElleHK", "sans-serif";}
